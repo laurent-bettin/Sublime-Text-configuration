@@ -1,0 +1,7 @@
+{
+    // Threshold distance to search
+    "use_search_threshold"     : false,
+    "tag_use_search_threshold" : false,
+    // Outline? (solid|outline|underline|none)
+    "tag_style"   : "underline"
+}
