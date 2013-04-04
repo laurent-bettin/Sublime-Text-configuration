@@ -22,3 +22,6 @@
 [submodule "SideBarEnhancements"]
 	path = SideBarEnhancements
 	url = git://github.com/titoBouzout/SideBarEnhancements.git
+[submodule "Tag"]
+	path = Tag
+	url = git://github.com/SublimeText/Tag.git
