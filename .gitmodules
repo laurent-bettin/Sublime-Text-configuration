@@ -19,3 +19,6 @@
 [submodule "sublime_package_control"]
 	path = sublime_package_control
 	url = git://github.com/wbond/sublime_package_control.git
+[submodule "SideBarEnhancements"]
+	path = SideBarEnhancements
+	url = git://github.com/titoBouzout/SideBarEnhancements.git
