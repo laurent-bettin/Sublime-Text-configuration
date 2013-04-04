@@ -25,3 +25,6 @@
 [submodule "Tag"]
 	path = Tag
 	url = git://github.com/SublimeText/Tag.git
+[submodule "nexus-theme"]
+	path = nexus-theme
+	url = git://github.com/EleazarCrusader/nexus-theme.git
