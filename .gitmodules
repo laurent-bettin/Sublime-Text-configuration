@@ -4,3 +4,6 @@
 [submodule "BracketHighlighter"]
 	path = BracketHighlighter
 	url = git://github.com/facelessuser/BracketHighlighter.git
+[submodule "emmet-sublime"]
+	path = emmet-sublime
+	url = git://github.com/sergeche/emmet-sublime.git
