@@ -1,3 +1,6 @@
 [submodule "AutoFileName"]
 	path = AutoFileName
 	url = git://github.com/BoundInCode/AutoFileName.git
+[submodule "BracketHighlighter"]
+	path = BracketHighlighter
+	url = git://github.com/facelessuser/BracketHighlighter.git
