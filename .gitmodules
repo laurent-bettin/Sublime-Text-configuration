@@ -10,3 +10,6 @@
 [submodule "SublimeFileDiffs"]
 	path = SublimeFileDiffs
 	url = git://github.com/colinta/SublimeFileDiffs.git
+[submodule "sublime-text-2-git"]
+	path = sublime-text-2-git
+	url = git://github.com/kemayo/sublime-text-2-git.git
