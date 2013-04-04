@@ -7,3 +7,6 @@
 [submodule "emmet-sublime"]
 	path = emmet-sublime
 	url = git://github.com/sergeche/emmet-sublime.git
+[submodule "SublimeFileDiffs"]
+	path = SublimeFileDiffs
+	url = git://github.com/colinta/SublimeFileDiffs.git
