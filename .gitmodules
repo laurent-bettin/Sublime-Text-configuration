@@ -16,3 +16,6 @@
 [submodule "Sublime-Text-2-Goto-CSS-Declaration"]
 	path = Sublime-Text-2-Goto-CSS-Declaration
 	url = git://github.com/rmaksim/Sublime-Text-2-Goto-CSS-Declaration.git
+[submodule "sublime_package_control"]
+	path = sublime_package_control
+	url = git://github.com/wbond/sublime_package_control.git
