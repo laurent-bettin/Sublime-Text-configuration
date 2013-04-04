@@ -13,3 +13,6 @@
 [submodule "sublime-text-2-git"]
 	path = sublime-text-2-git
 	url = git://github.com/kemayo/sublime-text-2-git.git
+[submodule "Sublime-Text-2-Goto-CSS-Declaration"]
+	path = Sublime-Text-2-Goto-CSS-Declaration
+	url = git://github.com/rmaksim/Sublime-Text-2-Goto-CSS-Declaration.git
