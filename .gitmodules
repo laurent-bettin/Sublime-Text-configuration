@@ -28,3 +28,6 @@
 [submodule "nexus-theme"]
 	path = nexus-theme
 	url = git://github.com/EleazarCrusader/nexus-theme.git
+[submodule "Sublime-Wrap-Plus"]
+	path = Sublime-Wrap-Plus
+	url = git://github.com/ehuss/Sublime-Wrap-Plus.git
