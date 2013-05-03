@@ -31,3 +31,6 @@
 [submodule "Sublime-Wrap-Plus"]
 	path = Sublime-Wrap-Plus
 	url = git://github.com/ehuss/Sublime-Wrap-Plus.git
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = git://github.com/SublimeLinter/SublimeLinter.git
